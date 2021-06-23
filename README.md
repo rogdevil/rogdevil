@@ -6,7 +6,8 @@
 ### <div align="center">I'm Aryan, a frontend developer 👨‍💻 working in the industry since 2019 🚀</div>  
   
 
-- 🔭  I’m currently working at lover.online as Junior Dev 
+- 🔭  I’m currently working at lover.online as Frontend Dev 
+- 🔭  I’m currently working at clashdome.io as Frontend Lead 
   
 
  

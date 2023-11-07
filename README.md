@@ -5,7 +5,11 @@
 
 ### <div align="center">I'm Aryan, a frontend developer 👨‍💻 working in the industry since 2019 🚀</div>  
  
-  
+  <p align="center">
+  <a href="#">
+      <img src="https://api.visitorbadge.io/api/VisitorHit?user=rogdevil&repo=rogdevil&countColor=%#DCE775" />
+   </a>
+</p>
 
  
 <br/>  

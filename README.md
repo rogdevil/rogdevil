@@ -91,11 +91,12 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rogdevil&show_icons=true&count_private=true" align="center" /></div>  
-
-<br/>
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogdevil&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=rogdevil&badges=5&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px" align="center" /></div>  
 
 <br/>
 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=rogdevil" align="center" /></div>  
+
+<br/>
+
+<div align="center"><img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rogdevil" align="center" /></div>  
